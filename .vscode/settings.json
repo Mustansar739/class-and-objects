@@ -1,0 +1,7 @@
+{
+    "notebook.consolidatedRunButton": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "run"
+    ],
+    "typescript.tsserver.nodePath": ""
+}
